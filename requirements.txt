@@ -1,0 +1,7 @@
+pyspark>=3.5
+lightgbm>=4.0
+statsmodels>=0.14
+pandas>=2.0
+numpy
+pyarrow>=14
+matplotlib
